@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+vendor/
+package-lock.json
+composer.lock
+tsconfig.json
+
+# Logs and 
+storage/
+bootstrap/cache/
+tests/
+
+# Compiled assets
+public/
+
+# Local Environment
+.env.example
+
+# IDE and OS specific
+.idea/
+.vscode/
+.DS_Store
+.editorconfig
+
+# Git
+.git/
+.github/
+.gitignore
+.gitattributes
+
+# The script and its config files
+project_scraper.py
+.scraignore
+scrape_groups.config
+
+# The output files
+backend.txt
+frontend.txt
